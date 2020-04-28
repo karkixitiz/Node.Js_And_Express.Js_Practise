@@ -21,7 +21,17 @@
         *exports class, function , const
  ### Day4
     # Express Js Crash Course
-        *
+        * basic server syntax
+		* basic route handling
+		* express middleware 
+		* use postman
+		* creating express server
+		* dependencies: nodemon(change updated in dev),moment(date format), express-handlebars
+		* set static folder in express server
+		* CRUD API
+		* randering template in server (express-handlebars)
+		* finally design Member APP (Add and display member)
 
 ### References
 	- https://nodejs.org/docs/latest-v8.x/api/
+	- http://expressjs.com/
